@@ -1,0 +1,6 @@
+Compound,Binding_Affinity_kcal_mol,MW_Da,cLogP,HBD,HBA,TPSA_A2,Rot_Bonds,Lipinski_Violations,Drug_Likeness
+EGCG (Polyphenol Glycosyltransferase Lead),-8.406,458.38,2.23,8,11,197.37,3,2,Fail (2 Violations)
+Quercetin-3-Glucoside (Glycoside Mimic),-7.924,464.38,-0.54,8,12,210.51,4,2,Fail (2 Violations)
+Ciprofloxacin (Negative Off-Target Control),-7.695,331.35,1.58,2,4,74.57,3,0,Pass (0-1 Violations)
+Murgocil-Scaffold (Known MurG Inhibitor),-7.345,328.82,5.02,1,3,41.99,3,1,Pass (0-1 Violations)
+UDP-GlcNAc (Natural Substrate Control),-6.54,607.36,-4.65,9,15,305.86,10,3,Fail (3 Violations)

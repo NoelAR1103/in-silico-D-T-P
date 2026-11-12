@@ -1,0 +1,6 @@
+Candidate,Affinity_kcal_mol,MW_Da,cLogP,HBD,HBA,TPSA_A2,Lipinski_Violations
+Analog-3 (Fluoro-Carboxamide Lead),-7.885,341.37,3.3,2,4,85.08,0
+Analog-2 (Amino-Pyrimidine Lead),-7.544,313.34,2.14,3,7,114.02,0
+Murgocil-Parent (Reference),-7.33,328.82,5.02,1,3,41.99,1
+Analog-1 (Pyridyl-Hydroxyl Lead),-7.187,297.34,3.16,2,5,75.11,0
+Analog-4 (Dihydroxy-Thiazole Lead),-7.024,337.36,3.35,3,6,106.24,0

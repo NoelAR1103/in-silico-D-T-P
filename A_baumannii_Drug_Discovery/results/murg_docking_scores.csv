@@ -1,0 +1,6 @@
+Compound,Binding_Affinity_kcal_mol,Docked_File
+EGCG (Polyphenol Glycosyltransferase Lead),-8.406,EGCG_docked.pdbqt
+Quercetin-3-Glucoside (Glycoside Mimic),-7.924,Quercetin_3_Glucoside_docked.pdbqt
+Ciprofloxacin (Negative Off-Target Control),-7.695,Ciprofloxacin_docked.pdbqt
+Murgocil-Scaffold (Known MurG Inhibitor),-7.345,Murgocil_Scaffold_docked.pdbqt
+UDP-GlcNAc (Natural Substrate Control),-6.54,UDP_GlcNAc_docked.pdbqt

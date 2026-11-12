@@ -1,0 +1,30 @@
+UniProt_ID,Gene,Protein_Name,Length,Subcellular_Location,DrugBank_IDs,ChEMBL_IDs,PDB_Structures,Druggability_Tier,MW_kDa,pI,GRAVY,Instability_Index,Stability
+D0C8Z9,mrdA,"Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4) (Class B penicillin-binding protein 2) (bPBP2) (Penicillin-binding protein 2) (PBP-2) (PBP2)",672,Cell inner membrane,,,7ZG8;8ZPC;,Tier 3: Novel Target + 3D Structure Ready,74.45,9.12,-0.375,31.89,Stable
+A3M0Q4,dnaA,Chromosomal replication initiator protein DnaA,465,Cytoplasm,,,,Tier 4: Novel Target (AlphaFold Structure),52.28,7.03,-0.17,48.13,Unstable
+A3M1C6,murD,UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9) (D-glutamic acid-adding enzyme) (UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase),448,Cytoplasm,,,,Tier 4: Novel Target (AlphaFold Structure),47.91,5.91,0.05,37.99,Stable
+A3M3C7,mtgA,Biosynthetic peptidoglycan transglycosylase (EC 2.4.99.28) (Glycan polymerase) (Peptidoglycan glycosyltransferase MtgA) (PGT),225,Cell inner membrane,,,,Tier 4: Novel Target (AlphaFold Structure),26.72,8.63,-0.346,34.97,Stable
+A3M4U7,ruvC,Crossover junction endodeoxyribonuclease RuvC (EC 3.1.21.10) (Holliday junction nuclease RuvC) (Holliday junction resolvase RuvC),181,Cytoplasm,,,,Tier 4: Novel Target (AlphaFold Structure),19.45,9.86,-0.078,40.42,Unstable
+A3M649,fabZ,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ (EC 4.2.1.59) ((3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase) ((3R)-hydroxymyristoyl-ACP dehydrase) (Beta-hydroxyacyl-ACP dehydratase),146,Cytoplasm,,,,Tier 4: Novel Target (AlphaFold Structure),16.34,6.83,0.038,23.14,Stable
+A3M9Y1,murG,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227) (Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase),365,Cell inner membrane,,,7D1I;,Tier 3: Novel Target + 3D Structure Ready,39.44,8.88,0.044,39.12,Stable
+B0V744,murB,UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98) (UDP-N-acetylmuramate dehydrogenase),353,Cytoplasm,,,,Tier 4: Novel Target (AlphaFold Structure),39.77,6.18,-0.161,31.19,Stable
+B0V8P2,mraY,Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) (UDP-MurNAc-pentapeptide phosphotransferase),372,Cell inner membrane,,,,Tier 4: Novel Target (AlphaFold Structure),40.91,9.54,0.781,25.1,Stable
+B0VNF6,alr,Alanine racemase (EC 5.1.1.1),367,Not specified in UniProt,,,,Tier 4: Novel Target (AlphaFold Structure),40.5,5.39,-0.048,40.68,Unstable
+B7IA15,rpsD,Small ribosomal subunit protein uS4 (30S ribosomal protein S4),208,Not specified in UniProt,,,6V39;6V3A;6V3B;6V3E;7M4U;7M4W;7M4X;7M4Y;7M4Z;7RYF;7RYG;7RYH;7UVV;7UVW;7UVX;7UVY;7UVZ;7UW1;,Tier 3: Novel Target + 3D Structure Ready,23.27,10.09,-0.609,42.45,Unstable
+A3M0Q6,recF,DNA replication and repair protein RecF,360,Cytoplasm,,,,Tier 4: Novel Target (AlphaFold Structure),41.13,6.6,-0.332,43.46,Unstable
+A3M1G0,rplA,Large ribosomal subunit protein uL1 (50S ribosomal protein L1),231,Not specified in UniProt,,,,Tier 4: Novel Target (AlphaFold Structure),23.86,9.54,0.038,8.96,Stable
+A3M1G1,rplJ,Large ribosomal subunit protein uL10 (50S ribosomal protein L10),168,Not specified in UniProt,,,,Tier 4: Novel Target (AlphaFold Structure),18.09,5.62,0.046,27.75,Stable
+A3M1K2,rimP,Ribosome maturation factor RimP,174,Cytoplasm,,,,Tier 4: Novel Target (AlphaFold Structure),19.49,4.45,-0.272,50.15,Unstable
+A3M1S5,rppH,RNA pyrophosphohydrolase (EC 3.6.1.-) ((Di)nucleoside polyphosphate hydrolase),161,Not specified in UniProt,,,,Tier 4: Novel Target (AlphaFold Structure),18.8,6.83,-0.398,44.72,Unstable
+A3M2Y4,smpB,SsrA-binding protein (Small protein B),158,Cytoplasm,,,,Tier 4: Novel Target (AlphaFold Structure),18.08,10.0,-0.459,44.15,Unstable
+A3M650,lpxD,UDP-3-O-acylglucosamine N-acyltransferase (EC 2.3.1.191),356,Not specified in UniProt,,,,Tier 4: Novel Target (AlphaFold Structure),38.4,6.34,-0.023,24.76,Stable
+A3M6Q4,rpsF,Small ribosomal subunit protein bS6 (30S ribosomal protein S6),127,Not specified in UniProt,,,,Tier 4: Novel Target (AlphaFold Structure),14.96,5.7,-0.676,62.05,Unstable
+A3M7E3,efp,Elongation factor P (EF-P),189,Cytoplasm,,,,Tier 4: Novel Target (AlphaFold Structure),20.89,4.88,-0.429,11.53,Stable
+A3M8A0,rplU,Large ribosomal subunit protein bL21 (50S ribosomal protein L21),103,Not specified in UniProt,,,,Tier 4: Novel Target (AlphaFold Structure),11.47,10.06,-0.316,44.1,Unstable
+A3M962,rpsM,Small ribosomal subunit protein uS13 (30S ribosomal protein S13),118,Not specified in UniProt,,,,Tier 4: Novel Target (AlphaFold Structure),13.27,11.12,-0.528,45.59,Unstable
+A3M965,rplO,Large ribosomal subunit protein uL15 (50S ribosomal protein L15),146,Not specified in UniProt,,,,Tier 4: Novel Target (AlphaFold Structure),15.48,10.95,-0.335,30.99,Stable
+A3M968,rplR,Large ribosomal subunit protein uL18 (50S ribosomal protein L18),116,Not specified in UniProt,,,,Tier 4: Novel Target (AlphaFold Structure),12.42,10.96,-0.315,41.31,Unstable
+A3M973,rplX,Large ribosomal subunit protein uL24 (50S ribosomal protein L24),105,Not specified in UniProt,,,,Tier 4: Novel Target (AlphaFold Structure),11.17,9.89,-0.3,5.21,Stable
+A3M9C2,glyS,Glycine--tRNA ligase beta subunit (EC 6.1.1.14) (Glycyl-tRNA synthetase beta subunit) (GlyRS),689,Cytoplasm,,,,Tier 4: Novel Target (AlphaFold Structure),75.02,5.14,-0.072,37.96,Stable
+A3M9X5,lpxC,UDP-3-O-acyl-N-acetylglucosamine deacetylase (UDP-3-O-acyl-GlcNAc deacetylase) (EC 3.5.1.108) (UDP-3-O-[R-3-hydroxymyristoyl]-N-acetylglucosamine deacetylase),300,Not specified in UniProt,,,,Tier 4: Novel Target (AlphaFold Structure),32.94,4.86,0.056,26.11,Stable
+A3M9Y0,murC,UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8) (UDP-N-acetylmuramoyl-L-alanine synthetase),482,Cytoplasm,,,,Tier 4: Novel Target (AlphaFold Structure),52.88,5.64,-0.172,31.16,Stable
+B0V5P1,infC,Translation initiation factor IF-3,183,Cytoplasm,,,,Tier 4: Novel Target (AlphaFold Structure),20.64,9.5,-0.713,38.7,Stable
